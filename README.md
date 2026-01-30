@@ -51,6 +51,7 @@ Because the data is fragmented, a vendor-wise summary table is created using SQL
 •	Power BI – Interactive dashboards and visual analytics
 
 📂 Project Files
+
 •	Business-Performance-Analysis.ipynb
 Contains the complete workflow with SQL queries and Python code combined in one Jupyter Notebook, including data cleaning, exploratory data analysis, correlation analysis, and statistical testing.
 

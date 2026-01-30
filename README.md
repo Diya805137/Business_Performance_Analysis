@@ -53,10 +53,13 @@ Because the data is fragmented, a vendor-wise summary table is created using SQL
 📂 Project Files
 •	Business-Performance-Analysis.ipynb
 Contains the complete workflow with SQL queries and Python code combined in one Jupyter Notebook, including data cleaning, exploratory data analysis, correlation analysis, and statistical testing.
+
 •	Business-Performance-Analysis.pdf
 A detailed insights report summarizing EDA results, correlations, research questions, hypothesis testing, and final business recommendations.
+
 •	Business-Performance-Analysis.pbix
 Power BI dashboard file showcasing interactive visualizations for sales, inventory, profit, and vendor performance.
+
 •	Business-Performance-Analysis.png
 Screenshot preview of the Power BI dashboard.
 

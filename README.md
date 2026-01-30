@@ -45,9 +45,13 @@ Records sales transactions with quantity sold, selling price, and revenue.
 Because the data is fragmented, a vendor-wise summary table is created using SQL joins and aggregations.
 
 🛠 Tools & Technologies
+
 •	SQL – Data extraction and querying
+
 •	Python (Pandas, NumPy, Matplotlib, Seaborn) – Data cleaning, EDA, and analysis
+
 •	Jupyter Notebook – SQL and Python code written together in a single notebook
+
 •	Power BI – Interactive dashboards and visual analytics
 
 📂 Project Files
@@ -65,6 +69,7 @@ Power BI dashboard file showcasing interactive visualizations for sales, invento
 Screenshot preview of the Power BI dashboard.
 
 🧠 Approach & Methodology
+
 1️⃣ SQL Data Engineering
 
 Complex joins across multiple tables
@@ -110,23 +115,37 @@ Freight costs vary drastically, highlighting potential logistics optimization op
 Some products sell unusually fast, while others remain idle indefinitely.
 
 🔍 Key Analysis & Insights
+
 •	Identified loss-making transactions with negative gross profit and profit margins
+
 •	Detected unsold inventory contributing to $2.71M in blocked capital
+
 •	Found strong correlation between purchase quantity and sales quantity, indicating efficient stock conversion
+
 •	Observed weak correlation between purchase price and profitability
+
 •	Identified over-reliance on top vendors contributing ~66% of total purchases
+
 •	Discovered higher profit margins among low-performing vendors with lower sales volume
 
 📊 Statistical & Business Findings
+
 •	Bulk purchasing results in ~72% lower unit costs
+
 •	High stock turnover does not always lead to higher profitability
+
 •	Hypothesis testing confirms a significant difference in profit margins between top and low-performing vendors
 
 ✅ Final Recommendations
+
 •	Optimize pricing strategies for low-sales, high-margin brands
+
 •	Reduce dependency on a limited number of vendors
+
 •	Leverage bulk purchasing while maintaining margin control
+
 •	Improve management of slow-moving inventory
+
 •	Strengthen marketing and distribution for underperforming vendors
 
 🎯 Outcome
